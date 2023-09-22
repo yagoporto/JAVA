@@ -9,4 +9,5 @@ O repositorio é livre para aqueles que desejam usar, caso queira editar com not
 ### GUIA
 
 - Todo o estudo sera divido por pastas com o nome do tema proposto.
-- Dentro desta pasta se encontra todos os arquivos, desde o resumo (.md) até os codigos fontes desenvolvido durante o estudo (.java)
+- Dentro desta pasta se encontra todos os arquivos, desde o resumo (.md) até os codigos fontes desenvolvido durante o estudo (.java).
+- Os codigos fontes na paste src tem ligação direta com o estudos e os "README" referente a cada tema abordado.
