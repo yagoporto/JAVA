@@ -13,7 +13,6 @@ public class Constantes {
 
         /*Essa linha vai dar erro de sintaxe pois a constante
         "pi" nao pode ser alterada*/
-        pi = 10.30
+        pi = 10.30;
     }
-    
 }

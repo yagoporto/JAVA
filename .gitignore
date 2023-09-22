@@ -2,3 +2,9 @@ tipos-variaveis/.vscode/settings.json
 tipos-variaveis/bin/App.class
 java-anatomia-classes/src/BoletimEstudantil.class
 tipos-variaveis/src/Constantes.class
+operadores/src/Concatenacao.class
+operadores/.vscode/settings.json
+operadores/src/OperadoresLogicos.class
+operadores/src/OperadoresRelacionais.class
+operadores/src/OperadorTernario.class
+operadores/src/OperadorUnario.class

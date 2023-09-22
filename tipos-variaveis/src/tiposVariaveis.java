@@ -1,5 +1,3 @@
-package JAVA;
-
 public class tiposVariaveis {
     public static void main(String[] args) {
         int idade; //Tipo "int", nome "idade", não foi atribuido valor
@@ -8,7 +6,7 @@ public class tiposVariaveis {
         
         
         
-        byte idade = 123;
+        byte idade2 = 123;
         short ano = 2021;
         int cep = 21070333; // se começar com zero, talvez tenha que ser outro tipo
         long cpf = 98765432109L; // se começar com zero, talvez tenha que ser outro tipo, e termina com "l"
