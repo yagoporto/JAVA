@@ -8,3 +8,6 @@ operadores/src/OperadoresLogicos.class
 operadores/src/OperadoresRelacionais.class
 operadores/src/OperadorTernario.class
 operadores/src/OperadorUnario.class
+metodos/.vscode/settings.json
+metodos/src/SmartTv.class
+metodos/src/Usuario.class
